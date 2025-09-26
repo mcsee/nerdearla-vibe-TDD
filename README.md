@@ -32,7 +32,7 @@ Quiero ver la evolución completa del algoritmo y de los tests, sin interrupcion
 
 [Conversación con ChatGPT](https://chatgpt.com/share/68d15168-9d08-800e-ab8d-9fe0a1319757)
 
-<div align="center">
+<div style="text-align: center;">
   <img src="./images/chatgpt.gif" alt="TDD in Action" style="max-width: 100%; height: auto; border-radius: 8px; margin: 20px 0;">
 </div>
 
@@ -42,41 +42,41 @@ Quiero ver la evolución completa del algoritmo y de los tests, sin interrupcion
 
 ## 🎤 Charlas Previas
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-  <a href="https://www.youtube.com/watch?v=MVXewf_W6sk" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <div style="text-align: center;">
-      <img src="./images/Test%20Driven%20Development%20101%20-%20Maximiliano%20Contieri.jpg" alt="Test Driven Development 101" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
-      <p style="margin: 8px 0 0; font-weight: 500;">Test Driven Development 101</p>
-    </div>
-  </a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <div style="text-align: center; flex: 0 0 auto;">
+    <a href="https://www.youtube.com/watch?v=MVXewf_W6sk" target="_blank">
+      <img src="https://img.youtube.com/vi/MVXewf_W6sk/mqdefault.jpg" alt="Test Driven Development 101" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
+    </a>
+    <div><a href="https://www.youtube.com/watch?v=MVXewf_W6sk" target="_blank">Test Driven Development 101</a></div>
+  </div>
   
-  <a href="https://www.youtube.com/watch?v=hjey2N1IpwE" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <div style="text-align: center;">
-      <img src="./images/Programando%20un%20Wordle%20con%20TDD%20e%20Inteligencia%20Artificial.jpg" alt="Programando un Wordle con TDD e Inteligencia Artificial" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
-      <p style="margin: 8px 0 0; font-weight: 500;">Wordle con TDD e IA</p>
-    </div>
-  </a>
+  <div style="text-align: center; flex: 0 0 auto;">
+    <a href="https://www.youtube.com/watch?v=hjey2N1IpwE" target="_blank">
+      <img src="https://img.youtube.com/vi/hjey2N1IpwE/mqdefault.jpg" alt="Wordle con TDD e IA" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
+    </a>
+    <div><a href="https://www.youtube.com/watch?v=hjey2N1IpwE" target="_blank">Wordle con TDD e IA</a></div>
+  </div>
   
-  <a href="https://www.youtube.com/watch?v=A0ZjnGN8DIs" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <div style="text-align: center;">
-      <img src="./images/Una%20Regla%20para%20Gobernarlos%20a%20Todos.jpg" alt="Una Regla para Gobernarlos a Todos" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
-      <p style="margin: 8px 0 0; font-weight: 500;">Una Regla para Gobernarlos a Todos</p>
-    </div>
-  </a>
+  <div style="text-align: center; flex: 0 0 auto;">
+    <a href="https://www.youtube.com/watch?v=A0ZjnGN8DIs" target="_blank">
+      <img src="https://img.youtube.com/vi/A0ZjnGN8DIs/mqdefault.jpg" alt="Una Regla para Gobernarlos a Todos" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
+    </a>
+    <div><a href="https://www.youtube.com/watch?v=A0ZjnGN8DIs" target="_blank">Una Regla para Gobernarlos a Todos</a></div>
+  </div>
   
-  <a href="https://www.youtube.com/watch?v=0cc9faVOx9M" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <div style="text-align: center;">
-      <img src="./images/Test%20Driven%20Development%20en%20Sistemas%20Heredados%20-%20Maximiliano%20Contieri.jpg" alt="Test Driven en Sistemas Heredados" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
-      <p style="margin: 8px 0 0; font-weight: 500;">TDD en Sistemas Heredados</p>
-    </div>
-  </a>
+  <div style="text-align: center; flex: 0 0 auto;">
+    <a href="https://www.youtube.com/watch?v=0cc9faVOx9M" target="_blank">
+      <img src="https://img.youtube.com/vi/0cc9faVOx9M/mqdefault.jpg" alt="TDD en Sistemas Heredados" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
+    </a>
+    <div><a href="https://www.youtube.com/watch?v=0cc9faVOx9M" target="_blank">TDD en Sistemas Heredados</a></div>
+  </div>
   
-  <a href="https://www.youtube.com/watch?v=e36FSN620zU" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <div style="text-align: center;">
-      <img src="./images/Conviertete%20en%20un%20Centauro%20del%20Codigo%20Limpio.jpg" alt="Conviértete en un Centauro del Código Limpio" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
-      <p style="margin: 8px 0 0; font-weight: 500;">Centauro del Código Limpio</p>
-    </div>
-  </a>
+  <div style="text-align: center; flex: 0 0 auto;">
+    <a href="https://www.youtube.com/watch?v=e36FSN620zU" target="_blank">
+      <img src="https://img.youtube.com/vi/e36FSN620zU/mqdefault.jpg" alt="Centauro del Código Limpio" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
+    </a>
+    <div><a href="https://www.youtube.com/watch?v=e36FSN620zU" target="_blank">Centauro del Código Limpio</a></div>
+  </div>
 </div>
 
 ## 💾 Repositorio para practicar TDD

@@ -32,6 +32,10 @@ Quiero ver la evolución completa del algoritmo y de los tests, sin interrupcion
 
 [Conversación con ChatGPT](https://chatgpt.com/share/68d15168-9d08-800e-ab8d-9fe0a1319757)
 
+<div align="center">
+  <img src="./images/chatgpt.gif" alt="TDD in Action" style="max-width: 100%; height: auto; border-radius: 8px; margin: 20px 0;">
+</div>
+
 ## 💻 Vibe Coding
 
 [![Definición en X](./images/tweet-1886192184808149383.png)](https://x.com/karpathy/status/1886192184808149383)

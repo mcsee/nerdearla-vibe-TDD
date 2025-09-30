@@ -6,6 +6,13 @@ language: es
 
 [Ver en la agenda de Nerdear.la](https://nerdear.la/agenda/vibe-test-driven-development/)
 
+  <div style="text-align: center; flex: 0 0 auto;">
+    <a href="https://www.youtube.com/watch?v=Xahv9nMegXA" target="_blank">
+      <img src="https://img.youtube.com/vi/Xahv9nMegXA/mqdefault.jpg" alt="Vibe Test Driven Development" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 8px;">
+    </a>
+    <div><a href="https://www.youtube.com/watch?v=Xahv9nMegXA" target="_blank">Vibe Test Driven Development</a></div>
+  </div>
+
 # 📚 Recursos de la charla
 
 ## 🤖 Prompt para la Pit-IA
@@ -107,7 +114,7 @@ Fork: [https://github.com/mcsee/yetisearch](https://github.com/mcsee/yetisearch)
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <a href="https://amzn.to/3VyRwlH"><img src="./images/Beyond.png" alt="Beyond Vibe Coding" style="width: 200px; height: auto; margin: 10px;"></a>
-  <a href="https://www.amazon.com/-/es/Modern-Software-Engineering-Better-Faster/dp/0137314914"><img src="./images/feathers.png" alt="Modern Software Engineering" style="width: 200px; height: auto; margin: 10px;"></a>
+  <a href="https://amzn.to/46YmKZR"><img src="./images/feathers.png" alt="Modern Software Engineering" style="width: 200px; height: auto; margin: 10px;"></a>
   <a href="https://amzn.to/48xgqK4"><img src="./images/farley.png" alt="Working Effectively with Legacy Code" style="width: 200px; height: auto; margin: 10px;"></a>
   <a href="https://amzn.to/46y3Sj2"><img src="./images/cleancode.png" alt="Clean Code Cookbook" style="width: 200px; height: auto; margin: 10px;"></a>
 </div>
